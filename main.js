@@ -1,4 +1,4 @@
-words = ["dog", "cat", "house", "elephant", "korea", "shirmp", "plant", "flower"];
+words = ["dog", "cat", "house", "elephant", "korea", "shirmp", "plant", "flower", "tree", "fish", "whale","human", "robot"];
 word = [];
 answer = '';
 lives = 6;
